@@ -1,0 +1,22 @@
+body {
+    background: gray
+}
+/* profileInfo */
+.profileInfo{
+    border-radius: 10px;
+}
+
+/* favGallery */
+.favGallery{
+    border: 2px solid skyblue ;
+    border-radius: 6px;
+}
+
+/* text */
+
+.text h1{
+    font-weight: bold;
+}
+.text h4{
+    color : gainsboro
+}
